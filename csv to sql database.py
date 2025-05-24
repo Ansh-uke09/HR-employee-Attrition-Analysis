@@ -15,7 +15,7 @@ folder_path = '/Users/mac/Desktop'
 conn = mysql.connector.connect(
     host='localhost',
     user='root',
-    password='Ansh@123',
+    password='',
     database='Employee',
     auth_plugin='mysql_native_password'  # add this if you get auth errors
 )
