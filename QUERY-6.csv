@@ -1,0 +1,309 @@
+EmployeeNumber,Age,Attrition,Gender,Department,Experience
+19,28,Yes,Male,"Research & Development",5
+24,38,No,Male,"Research & Development",5
+68,44,No,Female,Sales,5
+80,50,No,Female,"Research & Development",5
+139,37,No,Male,"Research & Development",5
+155,36,No,Female,"Research & Development",5
+192,45,No,Male,"Research & Development",5
+197,30,No,Female,"Research & Development",5
+269,35,No,Female,"Research & Development",5
+274,27,No,Male,"Research & Development",5
+296,51,No,Male,"Research & Development",5
+297,30,Yes,Female,"Research & Development",5
+299,30,Yes,Female,Sales,5
+325,33,Yes,Male,"Research & Development",5
+327,43,No,Female,Sales,5
+404,42,No,Female,Sales,5
+408,51,No,Male,"Research & Development",5
+440,28,Yes,Male,"Research & Development",5
+538,25,Yes,Male,"Research & Development",5
+549,60,No,Female,"Research & Development",5
+565,29,Yes,Female,"Research & Development",5
+574,47,No,Female,"Research & Development",5
+593,22,Yes,Male,"Research & Development",5
+618,26,No,Male,Sales,5
+624,46,No,Female,"Research & Development",5
+729,40,No,Male,Sales,5
+787,55,Yes,Male,"Research & Development",5
+808,34,No,Female,Sales,5
+815,50,No,Male,"Research & Development",5
+819,33,Yes,Female,Sales,5
+833,30,No,Female,"Research & Development",5
+865,32,No,Female,"Research & Development",5
+875,42,No,Male,"Research & Development",5
+897,53,No,Male,Sales,5
+900,37,No,Female,Sales,5
+930,28,No,Female,"Research & Development",5
+970,37,Yes,Male,Sales,5
+982,30,No,Male,Sales,5
+1033,37,Yes,Female,"Research & Development",5
+1076,43,No,Male,Sales,5
+1212,40,No,Male,Sales,5
+1217,46,No,Male,"Research & Development",5
+1254,59,No,Female,Sales,5
+1258,48,No,Male,"Research & Development",5
+1375,40,No,Female,"Research & Development",5
+1431,34,No,Male,"Research & Development",5
+1447,34,No,Female,"Research & Development",5
+1487,29,Yes,Female,Sales,5
+1496,44,No,Male,"Research & Development",5
+1599,43,No,Male,"Research & Development",5
+1656,50,No,Female,"Research & Development",5
+1694,55,No,Male,"Research & Development",5
+1733,36,Yes,Male,Sales,5
+1771,33,No,Male,"Research & Development",5
+1779,34,No,Female,Sales,5
+1803,42,No,Male,"Research & Development",5
+1805,38,No,Male,"Human Resources",5
+1869,46,Yes,Female,Sales,5
+1885,37,No,Male,"Research & Development",5
+1909,41,No,Female,Sales,5
+1955,32,No,Female,"Research & Development",5
+1960,28,Yes,Male,"Research & Development",5
+2031,42,No,Male,"Research & Development",5
+4,37,Yes,Male,"Research & Development",6
+13,36,No,Male,"Research & Development",6
+151,34,No,Female,"Research & Development",6
+178,36,No,Male,"Research & Development",6
+216,34,No,Female,Sales,6
+218,27,No,Male,"Research & Development",6
+302,45,No,Female,Sales,6
+305,33,No,Female,"Research & Development",6
+339,34,No,Male,"Research & Development",6
+342,37,Yes,Male,"Research & Development",6
+428,33,No,Female,"Research & Development",6
+466,41,No,Male,"Research & Development",6
+486,37,No,Female,"Research & Development",6
+491,50,No,Male,"Research & Development",6
+521,40,No,Female,"Research & Development",6
+575,46,No,Male,"Research & Development",6
+635,37,No,Female,"Research & Development",6
+752,42,Yes,Male,"Research & Development",6
+773,38,No,Male,"Research & Development",6
+796,26,Yes,Male,Sales,6
+803,38,No,Female,"Research & Development",6
+828,28,Yes,Male,"Research & Development",6
+832,40,No,Male,"Research & Development",6
+843,43,No,Male,"Research & Development",6
+872,22,No,Male,"Research & Development",6
+896,29,Yes,Female,Sales,6
+901,53,No,Female,"Research & Development",6
+912,29,No,Female,"Research & Development",6
+951,32,No,Female,"Research & Development",6
+981,53,No,Male,Sales,6
+984,35,No,Male,Sales,6
+994,29,Yes,Female,"Research & Development",6
+1007,46,No,Male,"Research & Development",6
+1025,41,No,Female,"Research & Development",6
+1029,42,No,Male,Sales,6
+1053,26,Yes,Male,"Research & Development",6
+1070,54,No,Female,Sales,6
+1138,49,No,Male,Sales,6
+1172,35,No,Male,"Research & Development",6
+1210,41,Yes,Male,"Research & Development",6
+1263,48,No,Male,"Research & Development",6
+1283,59,No,Male,"Research & Development",6
+1292,42,No,Female,"Research & Development",6
+1307,39,No,Female,"Research & Development",6
+1314,46,No,Female,"Human Resources",6
+1338,56,No,Male,"Human Resources",6
+1372,55,Yes,Male,Sales,6
+1395,33,No,Male,Sales,6
+1422,54,No,Female,"Research & Development",6
+1464,31,Yes,Male,"Research & Development",6
+1522,29,Yes,Male,"Research & Development",6
+1558,29,No,Male,"Research & Development",6
+1585,36,No,Female,Sales,6
+1641,40,No,Female,"Research & Development",6
+1645,35,Yes,Male,Sales,6
+1664,36,No,Male,"Research & Development",6
+1676,47,No,Female,Sales,6
+1682,36,No,Male,"Research & Development",6
+1720,32,No,Male,"Research & Development",6
+1722,41,No,Male,"Human Resources",6
+1727,46,No,Male,"Research & Development",6
+1734,32,Yes,Male,Sales,6
+1747,30,Yes,Female,"Human Resources",6
+1798,33,No,Male,"Research & Development",6
+1929,39,No,Female,Sales,6
+1968,53,Yes,Male,Sales,6
+1980,54,No,Female,"Research & Development",6
+1992,25,No,Male,"Research & Development",6
+1998,42,No,Male,"Research & Development",6
+2020,44,No,Male,"Research & Development",6
+27,36,Yes,Male,Sales,7
+72,26,No,Female,Sales,7
+81,59,No,Female,Sales,7
+91,59,No,Female,Sales,7
+107,38,No,Female,"Research & Development",7
+162,51,No,Male,"Research & Development",7
+190,32,Yes,Female,"Research & Development",7
+215,40,No,Male,Sales,7
+282,38,Yes,Male,"Research & Development",7
+288,46,No,Male,"Research & Development",7
+316,52,No,Female,"Research & Development",7
+328,33,Yes,Female,"Research & Development",7
+332,39,No,Female,"Research & Development",7
+381,35,No,Female,"Research & Development",7
+419,36,No,Female,"Research & Development",7
+431,49,No,Female,"Research & Development",7
+439,32,No,Female,"Research & Development",7
+460,37,No,Male,"Research & Development",7
+475,30,No,Female,Sales,7
+516,40,No,Female,Sales,7
+525,43,No,Male,"Research & Development",7
+578,54,No,Female,"Research & Development",7
+582,33,Yes,Male,"Research & Development",7
+584,33,Yes,Male,"Research & Development",7
+599,41,No,Male,Sales,7
+601,40,No,Female,"Research & Development",7
+625,41,No,Female,Sales,7
+664,48,No,Female,"Research & Development",7
+682,53,No,Female,Sales,7
+738,50,No,Male,Sales,7
+741,28,Yes,Female,"Research & Development",7
+747,30,No,Male,Sales,7
+762,56,No,Male,"Research & Development",7
+825,58,Yes,Male,"Research & Development",7
+854,25,No,Male,"Research & Development",7
+862,53,No,Female,Sales,7
+932,39,Yes,Male,"Research & Development",7
+936,42,No,Female,Sales,7
+1024,48,No,Male,"Research & Development",7
+1052,36,Yes,Male,"Research & Development",7
+1074,55,No,Male,"Research & Development",7
+1118,52,No,Male,"Research & Development",7
+1125,38,No,Male,Sales,7
+1127,39,Yes,Male,"Research & Development",7
+1161,37,No,Female,"Research & Development",7
+1171,42,No,Male,Sales,7
+1231,42,No,Male,"Human Resources",7
+1239,40,No,Female,Sales,7
+1245,54,No,Female,"Research & Development",7
+1267,44,No,Male,Sales,7
+1298,30,No,Female,"Research & Development",7
+1360,58,Yes,Female,"Research & Development",7
+1379,31,Yes,Female,Sales,7
+1394,37,No,Male,"Research & Development",7
+1428,30,No,Female,Sales,7
+1438,47,No,Male,"Research & Development",7
+1481,44,No,Female,Sales,7
+1485,34,No,Male,"Research & Development",7
+1504,28,Yes,Male,"Research & Development",7
+1613,31,No,Male,Sales,7
+1647,27,No,Female,"Research & Development",7
+1668,38,No,Male,"Research & Development",7
+1687,38,No,Female,"Research & Development",7
+1716,47,Yes,Male,Sales,7
+1731,47,No,Male,Sales,7
+1789,46,No,Male,"Research & Development",7
+1790,36,No,Male,"Research & Development",7
+1800,39,No,Male,"Research & Development",7
+1862,32,Yes,Male,Sales,7
+1866,43,No,Female,"Research & Development",7
+2003,35,No,Male,"Research & Development",7
+2014,39,No,Male,"Research & Development",7
+2025,36,No,Female,"Research & Development",7
+2044,50,Yes,Male,Sales,7
+1,41,Yes,Female,Sales,8
+103,46,No,Male,"Human Resources",8
+206,45,No,Male,"Research & Development",8
+246,31,No,Female,"Research & Development",8
+254,55,No,Male,"Research & Development",8
+281,40,No,Male,"Research & Development",8
+304,36,No,Male,"Research & Development",8
+321,59,No,Male,"Human Resources",8
+451,43,No,Female,"Research & Development",8
+499,49,No,Male,"Research & Development",8
+502,34,Yes,Male,Sales,8
+631,32,Yes,Male,Sales,8
+732,60,No,Male,Sales,8
+764,27,No,Female,"Research & Development",8
+813,52,No,Female,"Research & Development",8
+909,39,No,Female,"Human Resources",8
+964,40,No,Male,"Research & Development",8
+1013,54,No,Female,"Research & Development",8
+1036,38,No,Male,Sales,8
+1037,26,Yes,Male,Sales,8
+1080,46,No,Female,"Research & Development",8
+1126,43,No,Female,"Research & Development",8
+1173,24,No,Male,"Research & Development",8
+1188,43,Yes,Female,Sales,8
+1204,46,No,Female,Sales,8
+1211,30,No,Male,Sales,8
+1364,27,No,Female,Sales,8
+1479,30,No,Male,Sales,8
+1502,33,No,Female,"Research & Development",8
+1527,46,No,Female,Sales,8
+1557,48,No,Female,Sales,8
+1576,48,No,Female,"Research & Development",8
+1595,42,No,Male,"Research & Development",8
+1753,29,No,Male,"Research & Development",8
+1756,33,No,Female,Sales,8
+1768,42,No,Male,"Research & Development",8
+1770,55,No,Male,"Research & Development",8
+1801,46,No,Male,Sales,8
+1827,47,No,Female,"Research & Development",8
+1853,32,No,Male,Sales,8
+1859,29,No,Male,"Research & Development",8
+1871,39,No,Male,"Research & Development",8
+1873,55,No,Male,"Research & Development",8
+1916,31,No,Female,"Research & Development",8
+1934,47,No,Male,"Research & Development",8
+1966,32,No,Male,"Research & Development",8
+2012,40,No,Male,"Research & Development",8
+2032,56,Yes,Male,"Research & Development",8
+2046,45,No,Female,Sales,8
+7,27,No,Male,"Research & Development",9
+51,36,No,Female,"Research & Development",9
+64,48,Yes,Male,"Research & Development",9
+126,54,No,Female,"Research & Development",9
+140,59,No,Female,"Human Resources",9
+161,56,Yes,Female,"Research & Development",9
+264,45,No,Male,"Research & Development",9
+271,38,No,Male,"Research & Development",9
+287,40,No,Male,"Research & Development",9
+337,31,No,Male,"Research & Development",9
+393,38,No,Male,"Research & Development",9
+396,49,No,Female,"Research & Development",9
+452,45,No,Male,"Research & Development",9
+495,29,No,Male,"Research & Development",9
+496,35,No,Male,"Research & Development",9
+514,30,Yes,Male,"Research & Development",9
+523,34,No,Female,Sales,9
+532,56,No,Female,Sales,9
+590,34,Yes,Female,"Human Resources",9
+600,35,No,Male,Sales,9
+613,31,No,Male,Sales,9
+720,24,Yes,Female,Sales,9
+742,36,No,Female,"Research & Development",9
+746,47,No,Female,Sales,9
+760,39,No,Female,"Human Resources",9
+799,54,No,Female,"Research & Development",9
+827,42,No,Female,"Research & Development",9
+852,44,No,Male,"Research & Development",9
+861,30,No,Male,"Research & Development",9
+918,58,Yes,Male,"Research & Development",9
+997,50,No,Male,"Research & Development",9
+1001,27,No,Female,"Research & Development",9
+1046,32,No,Female,"Research & Development",9
+1069,46,No,Male,"Research & Development",9
+1081,51,Yes,Male,"Research & Development",9
+1098,44,Yes,Male,"Human Resources",9
+1132,39,No,Male,"Research & Development",9
+1166,40,No,Female,"Research & Development",9
+1294,36,No,Female,"Research & Development",9
+1319,52,Yes,Male,Sales,9
+1340,40,No,Male,"Research & Development",9
+1409,52,No,Female,"Research & Development",9
+1461,31,No,Female,"Human Resources",9
+1580,34,No,Male,"Research & Development",9
+1614,36,No,Female,"Research & Development",9
+1639,35,Yes,Male,Sales,9
+1650,29,No,Male,Sales,9
+1709,29,No,Female,"Research & Development",9
+1767,43,Yes,Male,"Research & Development",9
+1816,30,No,Female,"Research & Development",9
+1911,42,No,Male,"Research & Development",9
+2027,29,Yes,Male,"Research & Development",9
